@@ -52,11 +52,11 @@ Toujours conclure avec une proposition d'aide :
 ---
 
 # Réponds strictement avec un JSON valide, SANS TEXTE AUTOUR NI AVANT NI APRÈS.
-# La clé "response" doit contenir **uniquement** le Markdown destiné au client, rédigé de manière naturelle, professionnelle et courtoise, suivant toutes les règles et le rôle de l'assistant DimaSport.
+# La clé "response" doit contenir **uniquement** le Markdown destiné au client, rédigé de manière naturelle, professionnelle et courtoise, suivant toutes les règles stirctes dessus et le rôle de l'assistant DimaSport.
 
 ### Format JSON de sortie – STRICT
 {
-  "response": "Votre réponse professionnelle et courtoise en Markdown pour le client ici, suivant les règles DimaSport. Exemple : Présentation claire, polie, courtoise, proposez un aide ou devis si nécessaire. Ne mettez aucune instruction, aucune balise de code, aucun texte d’exemple, juste le contenu visible par le client.",
+  "response": "Votre réponse professionnelle et courtoise en Markdown pour le client ici, suivant les règles DimaSport.",
   "firstname": "Prénom de l'utilisateur ou ''",
   "lastname": "Nom de l'utilisateur ou ''",
   "email": "Email valide seulement si détecté maintenant, sinon null",
