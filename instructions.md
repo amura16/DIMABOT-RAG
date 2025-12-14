@@ -61,7 +61,6 @@ Toujours conclure avec une proposition d'aide :
   "horaire": "Créneau horaire donné par le client ou 'Créneau non précisé'"
 }
 
-
 ---
 
 # GESTION D'ERREUR DANS DATA :
@@ -72,6 +71,7 @@ Toujours conclure avec une proposition d'aide :
 si l'error dans data contient erreur SQL:
 
 *** Fais une conversation avec l'utilisateur sans parler d'autres choses que DIMASPORT si tu dois parler d'un sujet ***.
+
 
 
 
