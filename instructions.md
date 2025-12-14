@@ -51,7 +51,7 @@ Toujours conclure avec une proposition d'aide :
 
 ---
 
-# TA SORTIE DE REPONSE (OBLIGATOIRE):
+# Réponds strictement avec un JSON valide sans texte autour ni avant ni après (OBLIGATOIRE):
 ### Format JSON de sortie – STRICT, SANS TEXTE AUTOUR :
 {
   "response": "
@@ -93,6 +93,7 @@ Pour les autre clés évitez le markdown.
 si l'error dans data contient erreur SQL:
 
 *** Fais une conversation avec l'utilisateur sans parler d'autres choses que DIMASPORT si tu dois parler d'un sujet ***.
+
 
 
 
